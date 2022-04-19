@@ -2,7 +2,9 @@
 
 ## 무엇을 배웠나요?
 https://velog.io/@jytrack/%ED%8C%A8%EC%8A%A4%ED%8A%B8-%EC%BA%A0%ED%8D%BC%EC%8A%A4-MGS-3%EA%B8%B0-4%EC%9B%94-19%EC%9D%BC
+
 https://velog.io/@jytrack/4%EC%9B%94-19%EC%9D%BC-CSS-%EA%B0%9C%EC%9A%94-%EB%B0%8F-%EC%86%8D%EC%84%B1
+
 https://velog.io/@jytrack/%ED%8C%A8%EC%8A%A4%ED%8A%B8-%EC%BA%A0%ED%8D%BC%EC%8A%A4-MGS-3%EA%B8%B0-4%EC%9B%94-19%EC%9D%BCCSS-%EC%86%8D%EC%84%B1
 
 ## 아쉬운 점
