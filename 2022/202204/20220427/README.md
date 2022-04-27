@@ -8,6 +8,7 @@
   - 가져오기/내보내기, Lodash 사용법, JSON
   - https://velog.io/@jytrack/패스트-캠퍼스-MGS-3기-4월-27일JS-데이터-실습
 - 자바스크립트로 숫자야구 게임을 만들었다.
+  - https://github.com/jytrack64/javascript-practice/tree/main/BaseballGame
 
 ## 👍 칭찬
 - 숫자야구를 구현했다!!
